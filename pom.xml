@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>IoC.Container</groupId>
-	<artifactId>IoC-Container</artifactId>
+	<artifactId>IoC-Container-Java-Tabanli</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>IoC-Container</name>
 	<description>Demo project for Spring Boot</description>

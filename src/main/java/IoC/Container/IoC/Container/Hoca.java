@@ -1,4 +1,4 @@
-package IoC.Container.IoC.Container.Coupling;
+package IoC.Container.IoC.Container;
 
 public class Hoca implements Araci{
     @Override

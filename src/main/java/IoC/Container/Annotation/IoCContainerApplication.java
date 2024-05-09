@@ -1,4 +1,4 @@
-package IoC.Container.IoC.Container;
+package IoC.Container.Annotation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
